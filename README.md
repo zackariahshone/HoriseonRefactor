@@ -7,3 +7,5 @@ I have 3 different screen settings. 1 at 1000 pixles and 1 at 600 pixles.
 Most of the resizing is set at percentages so the boxes will be a percentage of the screen size rather than a fixed pixle size.
 
 When the screen is in 1000 the contents section and benefits aside change to 100% of the screen. The asside gets bumped to the bottom of the page.
+
+![Philadelphia's Magic Gardens. This place was so cool!](./assets/images/brand-awarness.png "Philadelphia's Magic Gardens")
